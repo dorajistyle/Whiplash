@@ -21,10 +21,18 @@ export PATH=$PATH:$GOPATH/bin
 
 ## Getting Started
 ```
-$ go run whiplash.go
+$ whiplash
 ```
 
 ## Help
 ```
-$ go run whiplash.go help
+$ whiplash help
 ```
+
+## Options
+
+* --bpm "400.00"		BPM. The game's tempo.
+* --text "hello world."	Text that you want to type
+* --skipIntro "false"		Use 'true' when you want to skip intro
+* --skipChecking "false"	Use 'true' when you want to skip checking that you were rushing or dragging.
+* --level "normal"		easy|normal|hard|guru
