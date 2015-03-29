@@ -3,6 +3,7 @@ whiplash.go is a command line game that a parody of the movie "Whiplash".
 
 ## Overview
 When you type a sentence, whiplash.go checks it's tempo and print feedback. (During the testing, I recognized that I have no sense of rhythm.:))
+
 Most of sentence is a parody of the movie '[Whiplash](http://www.imdb.com/title/tt2582802/)'. And intro sentence inspired by ["The Best Programming Advice I Ever Got" with Rob Pike](http://www.informit.com/articles/article.aspx?p=1941206).
 
 ## Installation
